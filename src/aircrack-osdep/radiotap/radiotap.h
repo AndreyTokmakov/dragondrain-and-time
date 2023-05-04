@@ -16,6 +16,8 @@
 #ifndef __RADIOTAP_H
 #define __RADIOTAP_H
 
+#include "aircrack-osdep/packed.h"
+
 /**
  * struct ieee82011_radiotap_header - base radiotap header
  */

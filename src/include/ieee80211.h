@@ -35,6 +35,8 @@
 #ifndef _NET80211_IEEE80211_H_
 #define _NET80211_IEEE80211_H_
 
+#include "aircrack-osdep/packed.h"
+
 /*
  * 802.11 protocol definitions.
  */

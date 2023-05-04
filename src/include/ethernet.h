@@ -5,9 +5,10 @@
  *
  */
 
+#include "aircrack-osdep/packed.h"
+
 #ifndef _NET_ETHERNET_H_
 #define _NET_ETHERNET_H_
-
 /*
  * Some basic Ethernet constants.
  */

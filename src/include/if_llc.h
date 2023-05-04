@@ -34,6 +34,8 @@
 #ifndef _NET_IF_LLC_H_
 #define _NET_IF_LLC_H_
 
+#include "aircrack-osdep/packed.h"
+
 /*
  * IEEE 802.2 Link Level Control headers, for use in conjunction with
  * 802.{3,4,5} media access control methods.
